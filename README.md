@@ -21,6 +21,8 @@
 
 `https://github.com/Null-ch/MAMP_laravel_test_task.git`
 
+Переименуйте .env.example в .env:
+
 Затем, открыв из папки проекта консоль, введите команду для установки пакетов Laravel:
 
 `composer update`
